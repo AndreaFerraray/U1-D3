@@ -13,11 +13,12 @@ figcaption p {
   opacity: 0.4;
 }
 
-.Ingredients {
+.intestazione {
   font-size: xx-large;
+  margin: ;32px
 }
-body {
-  width: 600px;
+.body {
+  width: 700px;
   margin: auto;
 }
 
@@ -27,3 +28,5 @@ body {
 .ul-title2 {
   font-weight: 800;
 }
+.make{font-weight: 800;}
+a{color: rgb(18, 102, 111);}
