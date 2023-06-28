@@ -1,0 +1,29 @@
+.first {
+  background-color: #f5f17c61;
+  height: 40px;
+  margin: 15px;
+}
+
+.logo {
+  text-align: center;
+  width: 100px;
+}
+
+figcaption p {
+  opacity: 0.4;
+}
+
+.Ingredients {
+  font-size: xx-large;
+}
+body {
+  width: 600px;
+  margin: auto;
+}
+
+.ul-title {
+  font-weight: 800;
+}
+.ul-title2 {
+  font-weight: 800;
+}
